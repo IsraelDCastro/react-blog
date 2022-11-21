@@ -1,0 +1,7 @@
+@import "not-idea-ui/css/not-idea-ui.min.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
